@@ -1,0 +1,49 @@
+/* RedimirCodigos.css
+
+.redimir-codigos-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .redimir-codigos-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .redimir-codigos-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .redimir-codigos-input {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .redimir-codigos-submit {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .redimir-codigos-response {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .redimir-codigos-response.success {
+    color: green;
+  }
+  
+  .redimir-codigos-response.error {
+    color: red;
+  }
+   */

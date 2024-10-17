@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Login 
+
+.title-login-sesion {
+  color: #FFCE00;
+  -webkit-text-stroke: 1px #000C4B;
+  text-stroke: 1px #000C4B;
+}
+
+.input-login-sesion{
+  width: 60% !important;
+  background: #000C4B;
+  color: #fff;
+  border: 2px solid #FFCE00 !important;
+  border-radius: 0.5rem !important;
+  font-size: 1.2rem !important;
+}
+
+.input-login-sesion::placeholder {
+  font-family: "Bebas Neue"; 
+  padding-left: 10px; 
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.btn-continue{
+  background: #FF000D !important;
+  color: white !important;
+  border: 3px solid white !important;
+  border-radius: 0.5rem !important;
+  margin: 0px !important;
+  padding: 0px !important;
+  width: 40% !important;
+  cursor: pointer !important;
+}
+
+.color-redirect-white{
+  color: #fff;
+}
+
+.color-redirect-blue{
+  color: #000C4B !important;
+}
+
+.text-decoration-none{
+  text-decoration: none;
+} */

@@ -1,0 +1,59 @@
+/* Register 
+
+.register-container {
+  width: 100%;
+}
+
+.register-form {
+  width: 100%;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.register-form input,
+.register-form button {
+  width: 100%;
+}
+
+
+.input-register-form{
+  background: #000C4B;
+  color: #fff;
+  border: 2px solid #FFCE00;
+  border-radius: 0.5rem;
+  font-size: 1.5rem !important;
+}
+
+.input-register-form::placeholder {
+  font-family: "Bebas Neue"; 
+  padding-left: 10px; 
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.container-text-legals{
+  width: 90% !important;
+  font-size: 0.9rem;
+  text-align: justify;
+  line-height: 1em;
+  color: #fff;
+}
+
+
+.btn-register-two{
+  background: #FFEB00;
+  color: #000C4B;
+  border: 3px solid #000C4B;
+  border-radius: 0.5rem;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+.text-redirect-login{
+  color: #000C4B;
+} */
